@@ -12,6 +12,7 @@
     <string name="ciao_proviamo">Ciao, proviamo</string>
     <string name="nickname">NICKNAME</string>
     <string name="bottone">ACCEDI</string>
+    <string name="title_activity_calc">Activity_calc</string>
 
 
 </resources>
